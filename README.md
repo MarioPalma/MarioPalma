@@ -11,7 +11,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Proactive and motivated student with skills in object-oriented programming (OOP) in Java and knowledge of Python, seeking an opportunity to apply and expand my knowledge in a dynamic work environment. Capable of teamwork and effective problem-solving, with a B2+ level of English that enables fluent communication in this language.
-* **I am interested in full-stack development, **
+* **I am interested in full-stack development**
 - 🌱 I’m currently learning ...
   - Django
   - JavaScript
