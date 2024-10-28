@@ -58,4 +58,9 @@ Proactive and motivated student with skills in object-oriented programming (OOP)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MarioPalma&theme=material-palenight)](https://github.com/MarioPalma)
 </div>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 <div>
