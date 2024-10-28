@@ -11,14 +11,14 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Proactive and motivated student with skills in object-oriented programming (OOP) in Java and knowledge of Python, seeking an opportunity to apply and expand my knowledge in a dynamic work environment. Capable of teamwork and effective problem-solving, with a B2+ level of English that enables fluent communication in this language.
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am interested in full-stack development, **
 - 🌱 I’m currently learning ...
   - Django
   - JavaScript
   - MySQL
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- ❗ I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help!<br>
+- Outside tech, 🎸 I play the guitar, 🖌️ do painting and skecthing, 🎵 listen to music, and 🏋️‍♂️ go the gym.
 - 📫 Reach out to me at: <a href="palmamarioandres@gmail.com">palmamarioandres@gmail.com</a>
 
 ## My Skills Include
@@ -29,11 +29,13 @@ Proactive and motivated student with skills in object-oriented programming (OOP)
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </span>
 
 <h4> Databases </h4>
@@ -49,6 +51,11 @@ Proactive and motivated student with skills in object-oriented programming (OOP)
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
-__Check out my GitHub repository:__
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=MarioPalma&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MarioPalma)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MarioPalma&theme=material-palenight)](https://github.com/MarioPalma)
+</div>
 
 <div>
