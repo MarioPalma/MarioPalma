@@ -8,7 +8,7 @@
 
 <img align="right" width=300px alt="Walking" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FoYTZpb2Q5ZmQ2MW52NGQ5ZTlnNThvcHNmNHU0bmVsaXdkejc4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ve0gu585OUFL0WqscR/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 Proactive and motivated student with skills in object-oriented programming (OOP) in Java and knowledge of Python, seeking an opportunity to apply and expand my knowledge in a dynamic work environment. Capable of teamwork and effective problem-solving, with a B2+ level of English that enables fluent communication in this language.
 * **I am interested in full-stack development**
@@ -19,7 +19,7 @@ Proactive and motivated student with skills in object-oriented programming (OOP)
 - ❗ I’m looking forward to collaborate on **open source projects**.
 - ✔ Ask me about anything, I am happy to help!<br>
 - Outside tech, 🎸 I play the guitar, 🖌️ do painting and skecthing, 🎵 listen to music, and 🏋️‍♂️ go the gym.
-- 📫 Reach out to me at: **<a href="palmamarioandres@gmail.com">**palmamarioandres@gmail.com</a>
+- 📫 Reach out to me at: <a href="palmamarioandres@gmail.com">palmamarioandres@gmail.com</a>
 
 ## My Skills Include
 
