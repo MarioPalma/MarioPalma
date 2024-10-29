@@ -51,8 +51,17 @@ Proactive and motivated student with skills in object-oriented programming (OOP)
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h4> Connect with me: </h4>
+<span>
+    <a href= "https://www.linkedin.com/in/marioandrespalma21122005536/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href= "https://www.instagram.com/mprcrly/?hl=es">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+</span>
+
+<h2 style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=MarioPalma&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MarioPalma)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=MarioPalma&theme=material-palenight)](https://github.com/MarioPalma)
