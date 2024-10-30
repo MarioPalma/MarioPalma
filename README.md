@@ -3,7 +3,7 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0440de&center=true&vCenter=true&width=600&height=40&lines=Welcome+To+My+Github;Back-End+Developer;Computer+Science+Student;Active+Learner/Researcher"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0440de&center=true&vCenter=true&width=600&height=40&lines=Welcome+To+My+Github;Back-End+Developer;Systems+Engineering+Student;Active+Learner/Researcher"></a>
 </p>
 
 <img align="right" width=300px alt="Walking" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FoYTZpb2Q5ZmQ2MW52NGQ5ZTlnNThvcHNmNHU0bmVsaXdkejc4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ve0gu585OUFL0WqscR/giphy.gif" />
